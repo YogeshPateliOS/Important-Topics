@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Start'/>
+        <page name='Best way to Learn - All Materials'/>
+        <page name='Important Topics'/>
+        <page name='Motivation'/>
+        <page name='Coding Standards'/>
+        <page name='🙋‍♂️ Say Hi on Social Media'/>
+    </pages>
+</playground>
